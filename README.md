@@ -3,7 +3,7 @@
 Simulation code and numerical protocols for:
 
 **I. Denysov, *Physics from Finite Validation: The Solitaire of Forces — Reading the Four Interactions Through Finite Validation, and Gravity as the Proto-Force*, United Field Initiative, 2026 (v2).**
-DOI: [10.5281/zenodo.20657843](https://doi.org/10.5281/zenodo.20657843)
+DOI: [10.5281/zenodo.20657842](https://doi.org/10.5281/zenodo.20657843)
 
 Series: [Paper 1](https://doi.org/10.5281/zenodo.21266772) · [Paper 2](https://doi.org/10.5281/zenodo.20634290) · [Paper 3](https://doi.org/10.5281/zenodo.20640511) · this work · [The Bridge](https://doi.org/10.5281/zenodo.21275364).
 
